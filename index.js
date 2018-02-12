@@ -1,5 +1,5 @@
 'use strict';
 
 module.exports = {
-  name: 'controller'
+  name: '@ember-decorators/controller'
 };
